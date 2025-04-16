@@ -1,1 +1,4 @@
-# ECnSS_final
+env
+media
+db.sqlite3
+migrations
